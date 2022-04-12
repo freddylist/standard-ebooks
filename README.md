@@ -1,2 +1,3 @@
-# standard-ebooks
-Compilation of ebooks from standardebooks.org
+# Standard Ebooks
+
+Compilation of ebooks from [standardebooks.org](https://standardebooks.org/about)
